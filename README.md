@@ -9,6 +9,7 @@
   <!-- <div align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Tanmoy.;An+aspiring+MERN+Stack+Developer;
   and+I+love+to+keep myself+updated; with+the latest+technologies;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div> -->
    <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1000%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
+    
 <hr>
   
 <div>
@@ -42,7 +43,9 @@
 <a href="mailto:vikassuresh4397@gmail.com"><img  align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  <a href="https://github.com/vikassuresh4397/vikassuresh4397.github.io">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://github.com/vikassuresh4397/vikassuresh4397.github.io" />
+        
     </a>
+    <a href="https://vikassuresh-portfolio.netlify.app/">portfolio</a>
 </div>
 <br />
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
