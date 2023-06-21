@@ -41,11 +41,10 @@
  <a  href="[https://www.linkedin.com/in//](https://www.linkedin.com/in/deepak-archana-mahesh-yadav-ab4438216/)" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a> -->
 
-<a href="mailto:deepakyad18@gmail.com"><img  align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:deepakyad18@gmail.com"><img  align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  <a href="https://github.com/vikassuresh4397/vikassuresh4397.github.io">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://github.com/vikassuresh4397/vikassuresh4397.github.io" />
-        
-    </a>
+        </a>
     <a href="https://vikassuresh4397.github.io/">portfolio</a>
 
 </div>
