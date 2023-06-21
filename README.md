@@ -45,7 +45,7 @@
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://github.com/vikassuresh4397/vikassuresh4397.github.io" />
         
     </a>
-    <a href="[https://vikassuresh-portfolio.netlify.app/](https://vikassuresh4397.github.io/)">portfolio</a>
+    <a href="https://vikassuresh4397.github.io/">portfolio</a>
 </div>
 <br />
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
