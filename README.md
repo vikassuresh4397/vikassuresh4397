@@ -38,10 +38,15 @@
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
 
- <a  href="[https://www.linkedin.com/in//](https://www.linkedin.com/in/vikas-suresh-05a60b23b/)" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a> -->
 
   <a href="mailto:vikassuresh4397@gmail.com"><img  align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+ <a href="https://www.linkedin.com/in/vikas-suresh-05a60b23b/">
+        <img align="center" src="https://camo.githubusercontent.com/8bb7c1de40aadb0d8eede2add7716932344b30235088d239831fe0e884de8f82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="https://github.com/vikassuresh4397/vikassuresh4397.github.io" />
+        </a>
+  
  <a href="https://vikassuresh4397.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://github.com/vikassuresh4397/vikassuresh4397.github.io" />
         </a>
