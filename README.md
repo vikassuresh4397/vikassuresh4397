@@ -28,7 +28,7 @@
 
 - ⚡️ Fun fact Html is a programming language
 
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+
   
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
