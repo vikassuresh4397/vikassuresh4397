@@ -36,6 +36,16 @@
 
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a> -->
 
+
+ <a
+        id="contact-email"
+          href="https://mail.google.com/mail/?view=cm&fs=1&to=vikassuresh4397@gmail.com&su=I%20would%20like%20to%20connect%20with%20you&body=Your%20resume%20matches%20my%20company%20needs.%20Would%20you%20be%20interested%20in%20working%20with%20us?"
+          target="_blank"
+          className="funnyicon"
+     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+          >
+         </a>
+
   <a href="mailto:vikassuresh4397@gmail.com"><img  align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
  <a href="https://www.linkedin.com/in/vikas-suresh-05a60b23b/">
