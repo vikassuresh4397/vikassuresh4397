@@ -24,12 +24,7 @@
 
 - 📫 How to reach me vikassuresh4397@gmail.com
 
-<!-- - 📄 Know about me and my experiences - [My Resume](https://drive.google.com/file/d/1AMnX1YWlsg9DHFLHghVVxRn3tqkgLK6N/view?usp=share_link) -->
-    
-    - 📄 Know about me and my experiences - https://drive.google.com/file/d/1AMnX1YWlsg9DHFLHghVVxRn3tqkgLK6N/view?usp=share_link
 
-
-- 📄 Know about me and my experiences - https:/vikassuresh4397/.github.io/
 
 - ⚡️ Fun fact Html is a programming language
 
