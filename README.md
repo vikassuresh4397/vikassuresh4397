@@ -43,7 +43,7 @@
           target="_blank"
           className="funnyicon"
      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-          >
+          ><img  align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
          </a>
 
   <a href="mailto:vikassuresh4397@gmail.com"><img  align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
