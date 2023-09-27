@@ -193,4 +193,4 @@
 Github Streak
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikassuresh4397&theme=dark" alt="json" />&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikassuresh4397" alt="json" />&nbsp;&nbsp;
