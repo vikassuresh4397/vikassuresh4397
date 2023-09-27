@@ -166,7 +166,7 @@
 
 </div>
 <br />
- <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+
 <h2 align="center">🚀 Languages and Tools: </h2>
  
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..
