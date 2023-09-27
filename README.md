@@ -190,7 +190,4 @@
  <br/>
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp;
 
-Github Streak
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikassuresh4397" alt="json" />&nbsp;&nbsp;
