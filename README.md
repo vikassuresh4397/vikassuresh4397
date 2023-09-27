@@ -76,7 +76,7 @@
 <!-- Total Stats -->
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=vikassuresh4397&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
 <!-- Streak Stats -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=vikassuresh4397&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vikassuresh4397)<br/>
 <!-- Top Languages -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikassuresh4397&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
