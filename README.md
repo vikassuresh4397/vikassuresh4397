@@ -30,7 +30,7 @@
 
 <br>
 
-## 💫 Trophies
+🏆 GitHub Trophies   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikassuresh4397" alt="kini99" /></a> </p>
 
 
@@ -88,9 +88,6 @@
 
 ## ⚡ Activity Graph &nbsp; <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git"/>
 <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vikassuresh4397&theme=gotham&hide_border=true"/>
-
-## 🏆 GitHub Trophies &nbsp; <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">
-![](https://github-profile-trophy.vercel.app/?username=vikassuresh4397@&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🔝 Top Contributed Repos &nbsp; <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">
 ![](https://github-contributor-stats.vercel.app/api?username=vikassuresh4397&limit=5&theme=dark&combine_all_yearly_contributions=true)
