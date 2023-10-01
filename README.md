@@ -30,6 +30,10 @@
 
 <br>
 
+## 💫 Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikassuresh4397" alt="kini99" /></a> </p>
+
+
 ## 🌐 Socials <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-suresh-05a60b23b/)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23E34F26.svg?logo=react&logoColor=white)](https://vikassuresh4397.github.io/)&nbsp;
