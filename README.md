@@ -83,7 +83,10 @@
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
+## 💻 Testing Tools
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
+<br>
 ## 🛠️ Tools
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;
 <img src="https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white" alt="sts"/>&nbsp;
