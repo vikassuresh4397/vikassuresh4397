@@ -12,9 +12,9 @@
 <img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ## 💫 About Me
-🌱 I’m currently enlightening myself with Python & Django.
+🌱 I’m currently enlightening myself with Mern Stack with Angular.
 <br>
-💬 Ask me about Java & SpringBoot.
+💬 Ask me about anything about Full Stack Mern Development.
 <br>
 <br>
 👨‍💻 All my projects are available in the [repository section](https://github.com/vikassuresh4397?tab=repositories).
