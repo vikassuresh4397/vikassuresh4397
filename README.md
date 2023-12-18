@@ -1,7 +1,6 @@
 <img alt="header" src="https://github.com/vikassuresh4397/vikassuresh4397/blob/main/Banner.gif">
 <br>
 <br>
-<br>
 
 
 <p align="center">
