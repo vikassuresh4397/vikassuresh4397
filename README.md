@@ -1,6 +1,6 @@
 <img alt="header" src="https://github.com/vikassuresh4397/vikassuresh4397/blob/main/Banner.gif">
 <br>
-<br>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+ 👋 +I'm+Vikas Suresh;Full-Stack+Web+Developer👨‍💻+From+India.&%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
