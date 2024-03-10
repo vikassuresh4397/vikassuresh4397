@@ -196,7 +196,7 @@
         </a>
   
  <a href="https://vikassuresh4397.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://github.com/vikassuresh4397/vikassuresh4397.github.io" />
+        <img align="center" src="[https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white](https://camo.githubusercontent.com/e8608a6316b9d88ea49559b15837c90b1c14fb172ca6743b50150cd54f208e26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)" alt="https://github.com/vikassuresh4397/vikassuresh4397.github.io" />
         </a>
   
 
